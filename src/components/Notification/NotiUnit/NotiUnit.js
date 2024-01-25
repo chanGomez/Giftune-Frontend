@@ -4,7 +4,7 @@ import { addNewFriend, updateNotification } from "../../API/API";
 import { toast } from "react-toastify";
 import {
   FriendsContext,
-  NotificationContext,
+  // NotificationContext,
 } from "../../common/context/context";
 
 // Icon Imports
