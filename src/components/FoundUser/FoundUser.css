@@ -430,7 +430,7 @@ a.friend-wish-list-item-link {
 
   .itembody {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     height: auto;
   }
 
