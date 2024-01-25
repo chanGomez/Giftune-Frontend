@@ -88,7 +88,6 @@ function App() {
   return (
     <React.Suspense fallback={<Spinner />}>
       <Router>
-        <ToastContainer autoClose={3000} />
         <Nav user={user} setUser={setUser} />
         <main className={user ? "page-content-container" : ""}>
           <div className={user ? "page-content" : ""}>
