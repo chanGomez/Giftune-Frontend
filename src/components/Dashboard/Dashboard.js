@@ -81,14 +81,13 @@ function Dashboard({ user }) {
 
   let friendsList = sortedfriendList?.map((friendDetails, index) => {
     return (
-      <>
+      <div key={index}>
         <Friend
-          key={index}
           friendDetails={friendDetails}
           dashboardUserId={dashboardId}
           currentDate={currentDate}
         />
-      </>
+      </div>
     );
   });
 
