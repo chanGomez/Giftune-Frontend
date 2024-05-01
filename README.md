@@ -4,6 +4,8 @@
 
 # 💝 Giftune
 
+##👷🏻‍♀️Giftune is always improving. The feature to log in is with google is in the works. Site might be down!⚙️
+
 An app designed to keep you on top of your loved ones’ upcoming birthdays where you can effortlessly select the perfect gift from a diverse array of options provided by your loved one's wishlist.
 
 ## 🎖️ Features
