@@ -24,6 +24,14 @@ An app designed to keep you on top of your loved ones’ upcoming birthdays wher
 - `Javascipt`
 - `Material UI`
 
+## Other Repos
+backend: [Giftune Backend Repo](https://github.com/chanGomez/Giftune-Backend)
+
+## Deployed Links
+
+frontend: [Giftune on Netlify](https://giftune-chantal.netlify.app/)
+backend: [Giftune on Render](https://giftune-back-end.onrender.com)
+
 ## 📝 Process
 
 ...
@@ -47,11 +55,6 @@ An app designed to keep you on top of your loved ones’ upcoming birthdays wher
 7. Insert command 'npm start' or 'npm run start'
 
    Application will now open in a new tab on your default browser with URL 'http://localhost:3000/'
-
-### Deployed Links
-
-frontend: [Giftune on Netlify](https://giftune-chantal.netlify.app/)
-backend: [Giftune on Render](https://giftune-back-end.onrender.com)
 
 # React Skeleton
 
